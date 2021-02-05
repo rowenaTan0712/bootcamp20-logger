@@ -1,0 +1,13 @@
+package com.bootcamp.basic.log4j2basic;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Log4j2BasicApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

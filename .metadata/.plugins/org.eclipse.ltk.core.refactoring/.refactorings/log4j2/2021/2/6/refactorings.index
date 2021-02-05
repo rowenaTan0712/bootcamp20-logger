@@ -1,0 +1,9 @@
+1612526905504	Delete element
+1612527070127	Rename package 'com.bootcamp.config.logback'
+1612527088737	Rename package 'com.bootcamp.config.logback.controller'
+1612527103691	Rename type 'LogbackApplication'
+1612527115103	Rename type 'LogbackController'
+1612527123485	Delete element
+1612527140532	Rename package 'com.bootcamp.config.logback'
+1612527150950	Rename type 'LogbackApplicationTests'
+1612534194934	Copy compilation unit

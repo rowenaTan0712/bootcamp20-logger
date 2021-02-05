@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="log4j2-config"/>
+<aop-project name="log4j2"/>
+<aop-project name="logback-config"/>
+<aop-project name="logback"/>
+<aop-project name="log4j2-basic"/>
+<aop-project name="logback-basic"/>
+</aop-reference-model>

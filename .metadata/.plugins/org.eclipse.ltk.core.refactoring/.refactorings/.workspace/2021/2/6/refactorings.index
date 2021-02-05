@@ -1,0 +1,5 @@
+1612525477641	Rename resource 'logback-appenders-filters'
+1612526936113	Rename resource 'log4j'
+1612533501958	Delete resource 'log4j2-basic'
+1612536640475	Delete resource 'logging-log4j2'
+1612536966637	Delete resource 'HelloWorld'

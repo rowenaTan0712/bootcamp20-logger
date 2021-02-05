@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\rowena.tan\Documents\Bootcamp\.metadata\.plugins\org.eclipse.jdt.core
+3482540635.index
+3485113323.index
+3045529480.index
+2707986694.index
+3474662235.index
+3658370401.index
